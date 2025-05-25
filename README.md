@@ -1,38 +1,40 @@
 # Minimal React + TS + Tailwind + Supabase Setup
 
+![](https://skillicons.dev/icons?i=nodejs,vite,react,typescript,tailwind,supabase,postgresql)
+
 This template provides a minimal setup to get:
 - Vite
 - React (w/ React Router)
 - TypeScript (w/ Aliases)
-- Tailwind v4 (w/ Prettier Plug-in)
+- Tailwind v4 (w/ Prettier plugin)
 - Supabase
 - Prettier
 - ESLint
 
-Working together and ready to deploy.
+All working together and ready to deploy.
 
-Made to have a fully functional boilerplate project that allows to make critical/project-dependent decisions for UI Kit, Global State Manager and other things.
+Designed to offer a fully functional boilerplate project that allows you to make critical or project-dependent decisions regarding the UI kit, global state manager, and other components.
 
 ## Features
 
-The Template include:
-- ✅ Minimal Setup (free to customize)
-- ✅ Full Routing Boilerplate
-- ✅ Supabase Connection
-- ✅ Authentication Boilerplate
-- ✅ Formatting and Linting
-- ✅ Complete Folder Structure
-- ✅ Ready-to-deploy Project
+This template includes:
+- ✅ Minimal setup (easy to customize)
+- ✅ Full routing boilerplate
+- ✅ Supabase integration
+- ✅ Authentication boilerplate
+- ✅ Formatting and linting
+- ✅ Complete folder structure
+- ✅ Ready-to-deploy project
 
-The Template DOESN'T include:
-- ❌ UI Kit
-- ❌ Global State Manager
-- ❌ Automated Tests
-- ❌ Any sort of Bloat
+This template **does not** include:
+- ❌ UI kit
+- ❌ Global state manager
+- ❌ Automated tests
+- ❌ Any sort of bloat
 
 ## Minimal Guide
 
-This template includes a minimal guide for you to know how it works and how you can customize to your usage:
+This template includes a minimal guide to help you understand how it works and how you can customize it for your needs:
 
 [Check it out](GUIDE.md)
 
@@ -70,4 +72,4 @@ See also:
 
 ## License
 
-[MIT LICENSE](LICENSE), feel free to use as you need ;)
+This Repository is under a [MIT LICENSE](LICENSE) - A.K.A.: feel free to use as you need ;)

@@ -3,7 +3,7 @@ import { useNavigate } from "react-router";
 import { signUpPath, signInPath, protectedPath, forgotPasswordPath } from "./constants";
 
 const hasEnvVars =
-  process.env.VITE_SUPABASE_URL && process.env.VITE_SUPABASE_ANON_KEY;
+  import.meta.env.VITE_SUPABASE_URL && import.meta.env.VITE_SUPABASE_ANON_KEY;
 
 const isUserAuth = async () => {
   const user = await supabase.auth.getUser();

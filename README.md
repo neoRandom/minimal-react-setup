@@ -15,9 +15,21 @@ All working together and ready to deploy.
 
 Designed to offer a fully functional boilerplate project that allows you to make critical or project-dependent decisions regarding the UI kit, global state manager, and other components.
 
-## Features
+## Purpose of the Repository
 
-This template includes:
+This repository offers a minimal, no-frills boilerplate for building web applications with React, TypeScript, Tailwind CSS, and Supabase. It’s designed to give you a clean, flexible starting point, with essential tools like Vite, Prettier, and ESLint already set up.
+
+The goal is to keep things lightweight and easy to expand, without locking you into specific choices for things like UI libraries or state management. You’re free to bring in the tools that make the most sense for your project.
+
+What stands out about this template is its focus on being deployment-ready from the start, while avoiding unnecessary bloat—making it a solid foundation for projects that need to scale smoothly over time.
+
+## Features and Technologies
+
+This project brings together a modern set of tools to make development fast and efficient. It uses Vite for quick builds, React with built-in routing, and Supabase to handle the backend and authentication. For styling, Tailwind CSS is included, along with a Prettier plugin to keep your code nicely formatted.
+
+The project is organized with a clean folder structure and comes preconfigured with linting and formatting tools to help keep everything consistent. It avoids using any predefined UI libraries or global state managers, giving you a flexible starting point to build things your own way.
+
+The template includes:
 - ✅ Minimal setup (easy to customize)
 - ✅ Full routing boilerplate
 - ✅ Supabase integration
@@ -26,7 +38,7 @@ This template includes:
 - ✅ Complete folder structure
 - ✅ Ready-to-deploy project
 
-This template **does not** include:
+The template **does not** include:
 - ❌ UI kit
 - ❌ Global state manager
 - ❌ Automated tests
